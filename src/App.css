@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+/* ------------------------------------------- */
+.default_style{
+  background-color: beige;
+  padding: 15px;
+  margin: 15px;
+  border: 2px solid darkgoldenrod;
+  border-radius: 15px;
+}
